@@ -9,11 +9,12 @@
 - Developing backend programming skills and learning cloud technologies
 
 ### 🛠️ Tech Stack
-- **Languages:** C#, SQL, JavaScript, Python *(learning)*
-- **AI & LLMs:** LLM API integration, prompt engineering *(learning)*
-- **Backend:** .NET, REST APIs
-- **Databases:** SQL, PostgreSQL
-- **Cloud & Infrastructure:** AWS, Docker *(learning)*
+- **Programming Languages:** C#, PHP, JavaScript, Java *(learning)*
+- **AI & LLMs:** LLM API integration *(learning)*
+- **Frameworks & Technologies:** .NET, WPF, .NET MAUI
+- **Databases:** SQL, MySQL
+- **Tools:** Visual Studio, Oracle SQL Developer, Git, GitHub, XAMPP, Google Antigravity
+- **Cloud & Infrastructure:** AWS *(learning)*
 - **Tools:** Git, GitHub, Visual Studio
 
 ### 🎯 Goals
